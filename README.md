@@ -16,4 +16,5 @@ Task Description 📄
 📌 When it recognizes a second face, it can be your friend or family member's face.
 
 👉 Create EC2 instance in the AWS using CLI. 
+
 👉 Create 5GB EBS volume and attach it to the instance. 
