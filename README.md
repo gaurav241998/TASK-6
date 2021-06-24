@@ -10,6 +10,7 @@ Task Description 📄
 📌 When it recognizes your face then - 
 
 👉 It sends mail to your mail-id by writing this is the face of your_name. 
+
 👉 Second, it sends a Whatsapp message to your friend, it can be anything. 
 
 
